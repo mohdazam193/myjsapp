@@ -1,0 +1,8 @@
+{
+  "name": "lambda-web-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "aws-sdk": "^2.1480.0",
+    "mongodb": "^5.7.0"
+  }
+}
